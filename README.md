@@ -59,6 +59,5 @@ Dalam jangka panjang, proporsi waktu untuk setiap kondisi:
 ## LAMPIRAN VIDEO
 Klik link di bawah untuk melihat video hasil tugas besar kami:
 
-[Video Tubes Pemstok Kelompok 3 RA](bit.ly/Video3RA)
-
+[Video Tubes Pemstok Kelompok 3 RA](https://bit.ly/Video3RA)
 
