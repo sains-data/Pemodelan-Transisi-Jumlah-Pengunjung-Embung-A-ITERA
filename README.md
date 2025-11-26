@@ -1,4 +1,4 @@
-# Analisis Rantai Markov - Pola Pengunjung Embung A ITERA
+# ANALISIS RANTAI MARKOV - POLA KERAMAIAN PENGUNJUNG DI EMBUNG A INSTITUT TEKNOLOGI SUMATERA
 ## Penulis
 RA
 - Pandra Insani Putra Azwar	(121450137)
@@ -34,6 +34,13 @@ Probabilitas perpindahan antar state:
 - **Dari Sedang**: 16.7% ke sepi, 50% tetap, 33.3% ke ramai
 - **Dari Ramai**: 33.3% ke sepi, 16.7% ke sedang, 50% tetap ramai
 
+Berikut tampilan beberapa visualisasi probabilitas perpindahan state:
+
+**Heatmap**: Matriks probabilitas transisi antar state
+![Heatmap Matriks Transisi](foto/heatmap.png)
+
+**Diagram Transisi**: Diagram transisi rantai Markov dengan bobot probabilitas
+![Diagram Transisi](foto/diagram.png)
 ### 3. Distribusi Stasioner
 
 Dalam jangka panjang, proporsi waktu untuk setiap kondisi:
@@ -47,14 +54,11 @@ Dalam jangka panjang, proporsi waktu untuk setiap kondisi:
 - Bersifat aperiodik (tidak ada siklus tetap)
 - State recurrent positif
 
-## Visualisasi
-
-Proyek ini menghasilkan beberapa visualisasi:
 
 
-1. **Heatmap**: Matriks probabilitas transisi antar state
-2. **Network diagram**: Diagram transisi rantai Markov dengan bobot probabilitas
+## LAMPIRAN VIDEO
+Klik link di bawah untuk melihat video hasil tugas besar kami:
 
+[Video Tubes Pemstok Kelompok 3](bit.ly/VideoTubesPemstok3RA)
 
-```
 
