@@ -1,6 +1,6 @@
 # ANALISIS RANTAI MARKOV - POLA KERAMAIAN PENGUNJUNG DI EMBUNG A INSTITUT TEKNOLOGI SUMATERA
 ## Penulis
-RA
+RA - Kelompok 3
 - Pandra Insani Putra Azwar	(121450137)
 - Lia Alyani			(121450138)
 - Muhammad Bayu Syuhada	(122450007)
@@ -59,6 +59,6 @@ Dalam jangka panjang, proporsi waktu untuk setiap kondisi:
 ## LAMPIRAN VIDEO
 Klik link di bawah untuk melihat video hasil tugas besar kami:
 
-[Video Tubes Pemstok Kelompok 3](bit.ly/VideoTubesPemstok3RA)
+[Video Tubes Pemstok Kelompok 3 RA](bit.ly/VideoTubesPemstok3RA)
 
 
